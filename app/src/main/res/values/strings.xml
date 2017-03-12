@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WiFiAPTestDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="openshot">打开热点</string>
+</resources>
